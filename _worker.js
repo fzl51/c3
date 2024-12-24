@@ -1,5 +1,4 @@
 export default {
-
   async fetch(request, env) {
     function blobToB64(data) {
      
